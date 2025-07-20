@@ -6,4 +6,4 @@ Anggota:
 3. Muhammad Favian Jiwani - 10123115
 
 Website Streamlit dapat dilihat melalui link:
- 
+https://kelompok1-if3-montecarlo-covid.streamlit.app/
